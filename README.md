@@ -1,4 +1,4 @@
-# 困于字符之间
+# 困于算法之中
 
 将 index.html 与 sketch.js 放在同一文件夹，通过 HTTPS 或 localhost 打开。
 
